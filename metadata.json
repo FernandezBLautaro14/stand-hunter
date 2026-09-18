@@ -1,0 +1,10 @@
+{
+  "name": "StandHunter",
+  "description": "Plataforma interactiva de desafíos en tiempo real para stands y eventos con escáner AR, telemetría en vivo, asistente IA táctico y recompensas criptográficas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
